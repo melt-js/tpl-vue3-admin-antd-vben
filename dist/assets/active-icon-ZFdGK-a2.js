@@ -1,0 +1,1 @@
+import{On as e,k as t,mt as n,v as r}from"./runtime-core.esm-bundler-BoA72rU-.js";import{v as i}from"./comps-C7uDAD6a.js";var a=t({__name:`index`,setup(t){return(t,a)=>(n(),r(e(i),{description:`用于菜单激活显示不同的图标`,status:`coming-soon`,title:`激活图标示例`}))}});export{a as default};

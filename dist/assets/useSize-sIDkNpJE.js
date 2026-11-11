@@ -1,0 +1,1 @@
+import{n as e}from"./SizeContext-OyUCpb5K.js";import{g as t}from"./runtime-core.esm-bundler-BoA72rU-.js";function n(n){let r=e();return t(()=>n?typeof n==`object`?n.value??r.value:typeof n==`function`?n(r.value):r.value:r.value)}export{n as t};

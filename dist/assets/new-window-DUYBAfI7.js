@@ -1,0 +1,1 @@
+import{On as e,k as t,mt as n,v as r}from"./runtime-core.esm-bundler-BoA72rU-.js";import{v as i}from"./comps-C7uDAD6a.js";var a=t({__name:`index`,setup(t){return(t,a)=>(n(),r(e(i),{description:`当前页面已在新窗口内打开`,status:`coming-soon`,title:`新窗口打开页面`}))}});export{a as default};

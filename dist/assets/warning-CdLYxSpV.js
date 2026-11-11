@@ -1,0 +1,1 @@
+import{gt as e}from"./runtime-core.esm-bundler-BoA72rU-.js";import"./genStyleUtils-Bz9P6qFf.js";function t(){}var n=t,r=Symbol(`WarningContext`);function i(t){e(r,t)}var a=()=>{let e=()=>{};return e.deprecated=t,e};export{i as n,n as r,a as t};

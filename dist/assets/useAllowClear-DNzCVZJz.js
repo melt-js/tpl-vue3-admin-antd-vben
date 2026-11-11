@@ -1,0 +1,1 @@
+import{En as e,g as t}from"./runtime-core.esm-bundler-BoA72rU-.js";function n(e){return e&&typeof e==`object`?{...e,disabled:e.disabled??!1}:{disabled:!e}}function r(r){return t(()=>n(e(r)))}export{r as t};

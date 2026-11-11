@@ -1,0 +1,1 @@
+import{f as e}from"./genStyleUtils-Bz9P6qFf.js";import{g as t}from"./runtime-core.esm-bundler-BoA72rU-.js";function n(n){let[,,,,r]=e();return t(()=>r?.value?`${n.value}-css-var`:``)}export{n as t};
