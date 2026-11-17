@@ -1,0 +1,1 @@
+import{n as t}from"./SizeContext-DENXeWx7.js";import{g as n}from"./runtime-core.esm-bundler-Bt9lA6T4.js";function o(e){const r=t();return n(()=>e?typeof e=="object"?e.value??r.value:typeof e=="function"?e(r.value):r.value:r.value)}export{o as t};

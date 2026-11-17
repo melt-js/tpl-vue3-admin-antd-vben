@@ -1,1 +1,0 @@
-import{J as e,g as t,gt as n,k as r}from"./runtime-core.esm-bundler-BoA72rU-.js";var i=Symbol(`SizeContext`),a=()=>e(i,t(()=>void 0)),o=r((e,{slots:r})=>{let o=a();return n(i,t(()=>e?.size||o.value)),()=>r?.default?.()},{props:{size:{type:[String,null],required:!1}}});function s(e){n(i,e)}export{a as n,s as r,o as t};

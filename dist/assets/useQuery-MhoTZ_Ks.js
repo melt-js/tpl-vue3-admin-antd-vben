@@ -1,1 +1,0 @@
-import{n as e,t}from"./useBaseQuery-CtIRukf2.js";function n(n,r){return t(e,n,r)}export{n as t};

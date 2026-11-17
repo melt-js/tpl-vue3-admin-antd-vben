@@ -1,0 +1,1 @@
+import{t}from"./isArrayLike-on7ZVhMv.js";function n(r){return r instanceof Map}function i(r){return n(r)}function f(r){return r==null?[]:t(r)||i(r)?Array.from(r):typeof r=="object"?Object.values(r):[]}export{f as t};

@@ -1,1 +1,0 @@
-import{J as e,g as t,gt as n,k as r,vn as i}from"./runtime-core.esm-bundler-BoA72rU-.js";var a=Symbol(`DisabledContextKey`);function o(e){n(a,e)}function s(){return e(a,i(!1))}var c=r((e,{slots:n})=>{let r=s();return o(t(()=>e?.disabled??r.value)),()=>n?.default?.()},{props:{disabled:{type:Boolean,required:!1,default:void 0}}});export{s as n,o as r,c as t};

@@ -1,0 +1,1 @@
+import{On as e,k as o,mt as t,v as r}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{d as n}from"./libTypes-Bo9gf1Mv.js";import{t as a}from"./constants-D2SSpqp0.js";var _=o({name:"QrCodeLogin",__name:"qrcode-login",setup(i){return(p,l)=>(t(),r(e(n),{"login-path":e(a)},null,8,["login-path"]))}}),d=_;export{d as default};

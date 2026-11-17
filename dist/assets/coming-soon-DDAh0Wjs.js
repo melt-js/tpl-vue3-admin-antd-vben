@@ -1,0 +1,1 @@
+import{On as o,k as e,mt as t,v as a}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as n}from"./libTypes-Bo9gf1Mv.js";var _=e({__name:"coming-soon",setup(r){return(s,c)=>(t(),a(o(n),{status:"coming-soon"}))}}),p=_;export{p as default};

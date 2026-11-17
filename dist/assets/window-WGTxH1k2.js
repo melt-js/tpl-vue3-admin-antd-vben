@@ -1,1 +1,0 @@
-function e(e,t={}){let{noopener:n=!0,noreferrer:r=!0,target:i=`_blank`}=t,a=[n&&`noopener=yes`,r&&`noreferrer=yes`].filter(Boolean).join(`,`);window.open(e,i,a)}export{e as t};

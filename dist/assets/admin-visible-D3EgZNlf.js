@@ -1,1 +1,0 @@
-import{On as e,k as t,mt as n,v as r}from"./runtime-core.esm-bundler-BoA72rU-.js";import{v as i}from"./comps-C7uDAD6a.js";var a=t({__name:`admin-visible`,setup(t){return(t,a)=>(n(),r(e(i),{description:`当前页面仅 Admin 账号可见`,status:`coming-soon`,title:`页面访问测试`}))}});export{a as default};

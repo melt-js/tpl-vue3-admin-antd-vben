@@ -1,0 +1,1 @@
+var e={login:"登入",register:"註冊",codeLogin:"驗證碼登入",qrcodeLogin:"二維碼登入",forgetPassword:"忘記密碼",sendingCode:"正在傳送驗證碼",codeSentTo:"驗證碼已傳送至{0}",profile:"個人中心"},a={title:"概覽",analytics:"分析頁",workspace:"工作臺"},o={auth:e,dashboard:a};export{e as auth,a as dashboard,o as default};

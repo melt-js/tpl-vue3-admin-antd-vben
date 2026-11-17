@@ -1,0 +1,1 @@
+import{On as e,k as r,mt as a,v as t}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as n}from"./libTypes-Bo9gf1Mv.js";var _=r({name:"Fallback500Demo",__name:"internal-error",setup(o){return(l,s)=>(a(),t(e(n),{status:"500"}))}}),c=_;export{c as default};

@@ -1,0 +1,826 @@
+[
+  {
+    "file": "logo-v1-af359db4.webp",
+    "source": "https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp"
+  },
+  {
+    "file": "pro-avatar-6d7d3924.webp",
+    "source": "https://unpkg.com/@vbenjs/static-source@0.1.7/source/pro-avatar.webp"
+  },
+  {
+    "file": "default-captcha-image-1b5964bb.jpg",
+    "source": "https://unpkg.com/@vbenjs/static-source@0.1.7/source/default-captcha-image.jpeg"
+  },
+  {
+    "file": "default-hint-image-14e920b9.png",
+    "source": "https://unpkg.com/@vbenjs/static-source@0.1.7/source/default-hint-image.png"
+  },
+  {
+    "file": "avatar-vercel-bc3b464c.svg",
+    "source": "https://avatar.vercel.sh/vercel.svg?text=VB"
+  },
+  {
+    "file": "avatar-1.png",
+    "source": "https://avatar.vercel.sh/1"
+  },
+  {
+    "file": "avatar-satori-2f87bb08.png",
+    "source": "https://avatar.vercel.sh/satori"
+  },
+  {
+    "file": "avatar-2.png",
+    "source": "https://avatar.vercel.sh/2"
+  },
+  {
+    "file": "avatar-3.png",
+    "source": "https://avatar.vercel.sh/3"
+  },
+  {
+    "file": "avatar-4.png",
+    "source": "https://avatar.vercel.sh/4"
+  },
+  {
+    "file": "avatar-5.png",
+    "source": "https://avatar.vercel.sh/5"
+  },
+  {
+    "file": "avatar-6.png",
+    "source": "https://avatar.vercel.sh/6"
+  },
+  {
+    "file": "avatar-7.png",
+    "source": "https://avatar.vercel.sh/7"
+  },
+  {
+    "file": "avatar-8.png",
+    "source": "https://avatar.vercel.sh/8"
+  },
+  {
+    "file": "avatar-9.png",
+    "source": "https://avatar.vercel.sh/9"
+  },
+  {
+    "file": "avatar-10.png",
+    "source": "https://avatar.vercel.sh/10"
+  },
+  {
+    "file": "avatar-11.png",
+    "source": "https://avatar.vercel.sh/11"
+  },
+  {
+    "file": "avatar-12.png",
+    "source": "https://avatar.vercel.sh/12"
+  },
+  {
+    "file": "avatar-13.png",
+    "source": "https://avatar.vercel.sh/13"
+  },
+  {
+    "file": "avatar-14.png",
+    "source": "https://avatar.vercel.sh/14"
+  },
+  {
+    "file": "avatar-15.png",
+    "source": "https://avatar.vercel.sh/15"
+  },
+  {
+    "file": "avatar-16.png",
+    "source": "https://avatar.vercel.sh/16"
+  },
+  {
+    "file": "avatar-17.png",
+    "source": "https://avatar.vercel.sh/17"
+  },
+  {
+    "file": "avatar-18.png",
+    "source": "https://avatar.vercel.sh/18"
+  },
+  {
+    "file": "avatar-19.png",
+    "source": "https://avatar.vercel.sh/19"
+  },
+  {
+    "file": "avatar-20.png",
+    "source": "https://avatar.vercel.sh/20"
+  },
+  {
+    "file": "avatar-21.png",
+    "source": "https://avatar.vercel.sh/21"
+  },
+  {
+    "file": "avatar-22.png",
+    "source": "https://avatar.vercel.sh/22"
+  },
+  {
+    "file": "avatar-23.png",
+    "source": "https://avatar.vercel.sh/23"
+  },
+  {
+    "file": "avatar-24.png",
+    "source": "https://avatar.vercel.sh/24"
+  },
+  {
+    "file": "avatar-25.png",
+    "source": "https://avatar.vercel.sh/25"
+  },
+  {
+    "file": "avatar-26.png",
+    "source": "https://avatar.vercel.sh/26"
+  },
+  {
+    "file": "avatar-27.png",
+    "source": "https://avatar.vercel.sh/27"
+  },
+  {
+    "file": "avatar-28.png",
+    "source": "https://avatar.vercel.sh/28"
+  },
+  {
+    "file": "avatar-29.png",
+    "source": "https://avatar.vercel.sh/29"
+  },
+  {
+    "file": "avatar-30.png",
+    "source": "https://avatar.vercel.sh/30"
+  },
+  {
+    "file": "avatar-31.png",
+    "source": "https://avatar.vercel.sh/31"
+  },
+  {
+    "file": "avatar-32.png",
+    "source": "https://avatar.vercel.sh/32"
+  },
+  {
+    "file": "avatar-33.png",
+    "source": "https://avatar.vercel.sh/33"
+  },
+  {
+    "file": "avatar-34.png",
+    "source": "https://avatar.vercel.sh/34"
+  },
+  {
+    "file": "avatar-35.png",
+    "source": "https://avatar.vercel.sh/35"
+  },
+  {
+    "file": "avatar-36.png",
+    "source": "https://avatar.vercel.sh/36"
+  },
+  {
+    "file": "avatar-37.png",
+    "source": "https://avatar.vercel.sh/37"
+  },
+  {
+    "file": "avatar-38.png",
+    "source": "https://avatar.vercel.sh/38"
+  },
+  {
+    "file": "avatar-39.png",
+    "source": "https://avatar.vercel.sh/39"
+  },
+  {
+    "file": "avatar-40.png",
+    "source": "https://avatar.vercel.sh/40"
+  },
+  {
+    "file": "avatar-41.png",
+    "source": "https://avatar.vercel.sh/41"
+  },
+  {
+    "file": "avatar-42.png",
+    "source": "https://avatar.vercel.sh/42"
+  },
+  {
+    "file": "avatar-43.png",
+    "source": "https://avatar.vercel.sh/43"
+  },
+  {
+    "file": "avatar-44.png",
+    "source": "https://avatar.vercel.sh/44"
+  },
+  {
+    "file": "avatar-45.png",
+    "source": "https://avatar.vercel.sh/45"
+  },
+  {
+    "file": "avatar-46.png",
+    "source": "https://avatar.vercel.sh/46"
+  },
+  {
+    "file": "avatar-47.png",
+    "source": "https://avatar.vercel.sh/47"
+  },
+  {
+    "file": "avatar-48.png",
+    "source": "https://avatar.vercel.sh/48"
+  },
+  {
+    "file": "avatar-49.png",
+    "source": "https://avatar.vercel.sh/49"
+  },
+  {
+    "file": "avatar-50.png",
+    "source": "https://avatar.vercel.sh/50"
+  },
+  {
+    "file": "avatar-51.png",
+    "source": "https://avatar.vercel.sh/51"
+  },
+  {
+    "file": "avatar-52.png",
+    "source": "https://avatar.vercel.sh/52"
+  },
+  {
+    "file": "avatar-53.png",
+    "source": "https://avatar.vercel.sh/53"
+  },
+  {
+    "file": "avatar-54.png",
+    "source": "https://avatar.vercel.sh/54"
+  },
+  {
+    "file": "avatar-55.png",
+    "source": "https://avatar.vercel.sh/55"
+  },
+  {
+    "file": "avatar-56.png",
+    "source": "https://avatar.vercel.sh/56"
+  },
+  {
+    "file": "avatar-57.png",
+    "source": "https://avatar.vercel.sh/57"
+  },
+  {
+    "file": "avatar-58.png",
+    "source": "https://avatar.vercel.sh/58"
+  },
+  {
+    "file": "avatar-59.png",
+    "source": "https://avatar.vercel.sh/59"
+  },
+  {
+    "file": "avatar-60.png",
+    "source": "https://avatar.vercel.sh/60"
+  },
+  {
+    "file": "avatar-61.png",
+    "source": "https://avatar.vercel.sh/61"
+  },
+  {
+    "file": "avatar-62.png",
+    "source": "https://avatar.vercel.sh/62"
+  },
+  {
+    "file": "avatar-63.png",
+    "source": "https://avatar.vercel.sh/63"
+  },
+  {
+    "file": "avatar-64.png",
+    "source": "https://avatar.vercel.sh/64"
+  },
+  {
+    "file": "avatar-65.png",
+    "source": "https://avatar.vercel.sh/65"
+  },
+  {
+    "file": "avatar-66.png",
+    "source": "https://avatar.vercel.sh/66"
+  },
+  {
+    "file": "avatar-67.png",
+    "source": "https://avatar.vercel.sh/67"
+  },
+  {
+    "file": "avatar-68.png",
+    "source": "https://avatar.vercel.sh/68"
+  },
+  {
+    "file": "avatar-69.png",
+    "source": "https://avatar.vercel.sh/69"
+  },
+  {
+    "file": "avatar-70.png",
+    "source": "https://avatar.vercel.sh/70"
+  },
+  {
+    "file": "avatar-71.png",
+    "source": "https://avatar.vercel.sh/71"
+  },
+  {
+    "file": "avatar-72.png",
+    "source": "https://avatar.vercel.sh/72"
+  },
+  {
+    "file": "avatar-73.png",
+    "source": "https://avatar.vercel.sh/73"
+  },
+  {
+    "file": "avatar-74.png",
+    "source": "https://avatar.vercel.sh/74"
+  },
+  {
+    "file": "avatar-75.png",
+    "source": "https://avatar.vercel.sh/75"
+  },
+  {
+    "file": "avatar-76.png",
+    "source": "https://avatar.vercel.sh/76"
+  },
+  {
+    "file": "avatar-77.png",
+    "source": "https://avatar.vercel.sh/77"
+  },
+  {
+    "file": "avatar-78.png",
+    "source": "https://avatar.vercel.sh/78"
+  },
+  {
+    "file": "avatar-79.png",
+    "source": "https://avatar.vercel.sh/79"
+  },
+  {
+    "file": "avatar-80.png",
+    "source": "https://avatar.vercel.sh/80"
+  },
+  {
+    "file": "avatar-81.png",
+    "source": "https://avatar.vercel.sh/81"
+  },
+  {
+    "file": "avatar-82.png",
+    "source": "https://avatar.vercel.sh/82"
+  },
+  {
+    "file": "avatar-83.png",
+    "source": "https://avatar.vercel.sh/83"
+  },
+  {
+    "file": "avatar-84.png",
+    "source": "https://avatar.vercel.sh/84"
+  },
+  {
+    "file": "avatar-85.png",
+    "source": "https://avatar.vercel.sh/85"
+  },
+  {
+    "file": "avatar-86.png",
+    "source": "https://avatar.vercel.sh/86"
+  },
+  {
+    "file": "avatar-87.png",
+    "source": "https://avatar.vercel.sh/87"
+  },
+  {
+    "file": "avatar-88.png",
+    "source": "https://avatar.vercel.sh/88"
+  },
+  {
+    "file": "avatar-89.png",
+    "source": "https://avatar.vercel.sh/89"
+  },
+  {
+    "file": "avatar-90.png",
+    "source": "https://avatar.vercel.sh/90"
+  },
+  {
+    "file": "avatar-91.png",
+    "source": "https://avatar.vercel.sh/91"
+  },
+  {
+    "file": "avatar-92.png",
+    "source": "https://avatar.vercel.sh/92"
+  },
+  {
+    "file": "avatar-93.png",
+    "source": "https://avatar.vercel.sh/93"
+  },
+  {
+    "file": "avatar-94.png",
+    "source": "https://avatar.vercel.sh/94"
+  },
+  {
+    "file": "avatar-95.png",
+    "source": "https://avatar.vercel.sh/95"
+  },
+  {
+    "file": "avatar-96.png",
+    "source": "https://avatar.vercel.sh/96"
+  },
+  {
+    "file": "avatar-97.png",
+    "source": "https://avatar.vercel.sh/97"
+  },
+  {
+    "file": "avatar-98.png",
+    "source": "https://avatar.vercel.sh/98"
+  },
+  {
+    "file": "avatar-99.png",
+    "source": "https://avatar.vercel.sh/99"
+  },
+  {
+    "file": "avatar-100.png",
+    "source": "https://avatar.vercel.sh/100"
+  },
+  {
+    "file": "avatar-101.png",
+    "source": "https://avatar.vercel.sh/101"
+  },
+  {
+    "file": "avatar-102.png",
+    "source": "https://avatar.vercel.sh/102"
+  },
+  {
+    "file": "avatar-103.png",
+    "source": "https://avatar.vercel.sh/103"
+  },
+  {
+    "file": "avatar-104.png",
+    "source": "https://avatar.vercel.sh/104"
+  },
+  {
+    "file": "avatar-105.png",
+    "source": "https://avatar.vercel.sh/105"
+  },
+  {
+    "file": "avatar-106.png",
+    "source": "https://avatar.vercel.sh/106"
+  },
+  {
+    "file": "avatar-107.png",
+    "source": "https://avatar.vercel.sh/107"
+  },
+  {
+    "file": "avatar-108.png",
+    "source": "https://avatar.vercel.sh/108"
+  },
+  {
+    "file": "avatar-109.png",
+    "source": "https://avatar.vercel.sh/109"
+  },
+  {
+    "file": "avatar-110.png",
+    "source": "https://avatar.vercel.sh/110"
+  },
+  {
+    "file": "avatar-111.png",
+    "source": "https://avatar.vercel.sh/111"
+  },
+  {
+    "file": "avatar-112.png",
+    "source": "https://avatar.vercel.sh/112"
+  },
+  {
+    "file": "avatar-113.png",
+    "source": "https://avatar.vercel.sh/113"
+  },
+  {
+    "file": "avatar-114.png",
+    "source": "https://avatar.vercel.sh/114"
+  },
+  {
+    "file": "avatar-115.png",
+    "source": "https://avatar.vercel.sh/115"
+  },
+  {
+    "file": "avatar-116.png",
+    "source": "https://avatar.vercel.sh/116"
+  },
+  {
+    "file": "avatar-117.png",
+    "source": "https://avatar.vercel.sh/117"
+  },
+  {
+    "file": "avatar-118.png",
+    "source": "https://avatar.vercel.sh/118"
+  },
+  {
+    "file": "avatar-119.png",
+    "source": "https://avatar.vercel.sh/119"
+  },
+  {
+    "file": "avatar-120.png",
+    "source": "https://avatar.vercel.sh/120"
+  },
+  {
+    "file": "avatar-121.png",
+    "source": "https://avatar.vercel.sh/121"
+  },
+  {
+    "file": "avatar-122.png",
+    "source": "https://avatar.vercel.sh/122"
+  },
+  {
+    "file": "avatar-123.png",
+    "source": "https://avatar.vercel.sh/123"
+  },
+  {
+    "file": "avatar-124.png",
+    "source": "https://avatar.vercel.sh/124"
+  },
+  {
+    "file": "avatar-125.png",
+    "source": "https://avatar.vercel.sh/125"
+  },
+  {
+    "file": "avatar-126.png",
+    "source": "https://avatar.vercel.sh/126"
+  },
+  {
+    "file": "avatar-127.png",
+    "source": "https://avatar.vercel.sh/127"
+  },
+  {
+    "file": "avatar-128.png",
+    "source": "https://avatar.vercel.sh/128"
+  },
+  {
+    "file": "avatar-129.png",
+    "source": "https://avatar.vercel.sh/129"
+  },
+  {
+    "file": "avatar-130.png",
+    "source": "https://avatar.vercel.sh/130"
+  },
+  {
+    "file": "avatar-131.png",
+    "source": "https://avatar.vercel.sh/131"
+  },
+  {
+    "file": "avatar-132.png",
+    "source": "https://avatar.vercel.sh/132"
+  },
+  {
+    "file": "avatar-133.png",
+    "source": "https://avatar.vercel.sh/133"
+  },
+  {
+    "file": "avatar-134.png",
+    "source": "https://avatar.vercel.sh/134"
+  },
+  {
+    "file": "avatar-135.png",
+    "source": "https://avatar.vercel.sh/135"
+  },
+  {
+    "file": "avatar-136.png",
+    "source": "https://avatar.vercel.sh/136"
+  },
+  {
+    "file": "avatar-137.png",
+    "source": "https://avatar.vercel.sh/137"
+  },
+  {
+    "file": "avatar-138.png",
+    "source": "https://avatar.vercel.sh/138"
+  },
+  {
+    "file": "avatar-139.png",
+    "source": "https://avatar.vercel.sh/139"
+  },
+  {
+    "file": "avatar-140.png",
+    "source": "https://avatar.vercel.sh/140"
+  },
+  {
+    "file": "avatar-141.png",
+    "source": "https://avatar.vercel.sh/141"
+  },
+  {
+    "file": "avatar-142.png",
+    "source": "https://avatar.vercel.sh/142"
+  },
+  {
+    "file": "avatar-143.png",
+    "source": "https://avatar.vercel.sh/143"
+  },
+  {
+    "file": "avatar-144.png",
+    "source": "https://avatar.vercel.sh/144"
+  },
+  {
+    "file": "avatar-145.png",
+    "source": "https://avatar.vercel.sh/145"
+  },
+  {
+    "file": "avatar-146.png",
+    "source": "https://avatar.vercel.sh/146"
+  },
+  {
+    "file": "avatar-147.png",
+    "source": "https://avatar.vercel.sh/147"
+  },
+  {
+    "file": "avatar-148.png",
+    "source": "https://avatar.vercel.sh/148"
+  },
+  {
+    "file": "avatar-149.png",
+    "source": "https://avatar.vercel.sh/149"
+  },
+  {
+    "file": "avatar-150.png",
+    "source": "https://avatar.vercel.sh/150"
+  },
+  {
+    "file": "avatar-151.png",
+    "source": "https://avatar.vercel.sh/151"
+  },
+  {
+    "file": "avatar-152.png",
+    "source": "https://avatar.vercel.sh/152"
+  },
+  {
+    "file": "avatar-153.png",
+    "source": "https://avatar.vercel.sh/153"
+  },
+  {
+    "file": "avatar-154.png",
+    "source": "https://avatar.vercel.sh/154"
+  },
+  {
+    "file": "avatar-155.png",
+    "source": "https://avatar.vercel.sh/155"
+  },
+  {
+    "file": "avatar-156.png",
+    "source": "https://avatar.vercel.sh/156"
+  },
+  {
+    "file": "avatar-157.png",
+    "source": "https://avatar.vercel.sh/157"
+  },
+  {
+    "file": "avatar-158.png",
+    "source": "https://avatar.vercel.sh/158"
+  },
+  {
+    "file": "avatar-159.png",
+    "source": "https://avatar.vercel.sh/159"
+  },
+  {
+    "file": "avatar-160.png",
+    "source": "https://avatar.vercel.sh/160"
+  },
+  {
+    "file": "avatar-161.png",
+    "source": "https://avatar.vercel.sh/161"
+  },
+  {
+    "file": "avatar-162.png",
+    "source": "https://avatar.vercel.sh/162"
+  },
+  {
+    "file": "avatar-163.png",
+    "source": "https://avatar.vercel.sh/163"
+  },
+  {
+    "file": "avatar-164.png",
+    "source": "https://avatar.vercel.sh/164"
+  },
+  {
+    "file": "avatar-165.png",
+    "source": "https://avatar.vercel.sh/165"
+  },
+  {
+    "file": "avatar-166.png",
+    "source": "https://avatar.vercel.sh/166"
+  },
+  {
+    "file": "avatar-167.png",
+    "source": "https://avatar.vercel.sh/167"
+  },
+  {
+    "file": "avatar-168.png",
+    "source": "https://avatar.vercel.sh/168"
+  },
+  {
+    "file": "avatar-169.png",
+    "source": "https://avatar.vercel.sh/169"
+  },
+  {
+    "file": "avatar-170.png",
+    "source": "https://avatar.vercel.sh/170"
+  },
+  {
+    "file": "avatar-171.png",
+    "source": "https://avatar.vercel.sh/171"
+  },
+  {
+    "file": "avatar-172.png",
+    "source": "https://avatar.vercel.sh/172"
+  },
+  {
+    "file": "avatar-173.png",
+    "source": "https://avatar.vercel.sh/173"
+  },
+  {
+    "file": "avatar-174.png",
+    "source": "https://avatar.vercel.sh/174"
+  },
+  {
+    "file": "avatar-175.png",
+    "source": "https://avatar.vercel.sh/175"
+  },
+  {
+    "file": "avatar-176.png",
+    "source": "https://avatar.vercel.sh/176"
+  },
+  {
+    "file": "avatar-177.png",
+    "source": "https://avatar.vercel.sh/177"
+  },
+  {
+    "file": "avatar-178.png",
+    "source": "https://avatar.vercel.sh/178"
+  },
+  {
+    "file": "avatar-179.png",
+    "source": "https://avatar.vercel.sh/179"
+  },
+  {
+    "file": "avatar-180.png",
+    "source": "https://avatar.vercel.sh/180"
+  },
+  {
+    "file": "avatar-181.png",
+    "source": "https://avatar.vercel.sh/181"
+  },
+  {
+    "file": "avatar-182.png",
+    "source": "https://avatar.vercel.sh/182"
+  },
+  {
+    "file": "avatar-183.png",
+    "source": "https://avatar.vercel.sh/183"
+  },
+  {
+    "file": "avatar-184.png",
+    "source": "https://avatar.vercel.sh/184"
+  },
+  {
+    "file": "avatar-185.png",
+    "source": "https://avatar.vercel.sh/185"
+  },
+  {
+    "file": "avatar-186.png",
+    "source": "https://avatar.vercel.sh/186"
+  },
+  {
+    "file": "avatar-187.png",
+    "source": "https://avatar.vercel.sh/187"
+  },
+  {
+    "file": "avatar-188.png",
+    "source": "https://avatar.vercel.sh/188"
+  },
+  {
+    "file": "avatar-189.png",
+    "source": "https://avatar.vercel.sh/189"
+  },
+  {
+    "file": "avatar-190.png",
+    "source": "https://avatar.vercel.sh/190"
+  },
+  {
+    "file": "avatar-191.png",
+    "source": "https://avatar.vercel.sh/191"
+  },
+  {
+    "file": "avatar-192.png",
+    "source": "https://avatar.vercel.sh/192"
+  },
+  {
+    "file": "avatar-193.png",
+    "source": "https://avatar.vercel.sh/193"
+  },
+  {
+    "file": "avatar-194.png",
+    "source": "https://avatar.vercel.sh/194"
+  },
+  {
+    "file": "avatar-195.png",
+    "source": "https://avatar.vercel.sh/195"
+  },
+  {
+    "file": "avatar-196.png",
+    "source": "https://avatar.vercel.sh/196"
+  },
+  {
+    "file": "avatar-197.png",
+    "source": "https://avatar.vercel.sh/197"
+  },
+  {
+    "file": "avatar-198.png",
+    "source": "https://avatar.vercel.sh/198"
+  },
+  {
+    "file": "avatar-199.png",
+    "source": "https://avatar.vercel.sh/199"
+  },
+  {
+    "file": "avatar-200.png",
+    "source": "https://avatar.vercel.sh/200"
+  }
+]

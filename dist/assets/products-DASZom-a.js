@@ -1,0 +1,1 @@
+var n=Array.from({length:35},(r,t)=>{const e=String(t+1);return{brand:"Vben Demo",category:"本地数据",description:`本地产品 ${e}`,discountPercentage:"0",id:e,images:[],price:String((t+1)*10),rating:"5",stock:"100",thumbnail:"",title:`本地产品 ${e}`}});async function c(r,t){return{limit:t,products:n.slice(r,r+t),skip:r,total:n.length}}export{c as t};

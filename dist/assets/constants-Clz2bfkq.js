@@ -1,1 +1,0 @@
-var e=`/auth/login`,t=[{label:`简体中文`,value:`zh-CN`},{label:`English`,value:`en-US`}];function n(e){return e.map(e=>({...e}))}n(t);var r=[];function i(e){let t=n(e);for(let e of[...r])e(n(t))}export{t as n,i as r,e as t};

@@ -1,0 +1,1 @@
+var e={login:"Login",register:"Register",codeLogin:"Code Login",qrcodeLogin:"Qr Code Login",forgetPassword:"Forget Password",sendingCode:"SMS Code is sending...",codeSentTo:"Code has been sent to {0}",profile:"Profile"},o={title:"Dashboard",analytics:"Analytics",workspace:"Workspace"},a={auth:e,dashboard:o};export{e as auth,o as dashboard,a as default};

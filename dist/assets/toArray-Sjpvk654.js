@@ -1,0 +1,1 @@
+import{Z as s,o as n}from"./runtime-core.esm-bundler-Bt9lA6T4.js";function o(t){return s(t)&&t.type===n}function i(t,a={}){let e=[];Array.isArray(t)||(t=[t]);for(const r of t)r==null&&!a.keepEmpty||(Array.isArray(r)?e=e.concat(i(r,a)):o(r)&&r.children?e=e.concat(i(r.children,a)):e.push(r));return e}export{i as t};

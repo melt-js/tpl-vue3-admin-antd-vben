@@ -1,0 +1,1 @@
+import{On as e,k as t,mt as r,v as s}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as a}from"./libTypes-Bo9gf1Mv.js";var _=t({__name:"user-visible",setup(o){return(u,i)=>(r(),s(e(a),{description:"当前页面仅 User 账号可见",status:"coming-soon",title:"页面访问测试"}))}}),p=_;export{p as default};

@@ -1,1 +1,0 @@
-import{B as e}from"./store-CVtAbSdR.js";async function t({file:t,onError:n,onProgress:r,onSuccess:i}){try{r?.({percent:0});let n=await e.upload(`/upload`,{file:t});r?.({percent:100}),i?.(n,t)}catch(e){n?.(e instanceof Error?e:Error(String(e)))}}export{t};

@@ -1,0 +1,1 @@
+import{En as t,g as n}from"./runtime-core.esm-bundler-Bt9lA6T4.js";function o(e){return e&&typeof e=="object"?{...e,disabled:e.disabled??!1}:{disabled:!e}}function d(e){return n(()=>o(t(e)))}export{d as t};

@@ -1,1 +1,0 @@
-import{r as e}from"./locale-CDE25090.js";import{t}from"./en_US-c8DwoEA3.js";import{g as n,vn as r}from"./runtime-core.esm-bundler-BoA72rU-.js";function i(i,a){let{locale:o}=e()??{locale:r(t)};return[n(()=>{let e=a||t[i],n=o.value?.[i]??{};return{...typeof e==`function`?e():e,...n||{}}}),n(()=>{let e=o.value?.locale;return o.value?.exist&&!e?t.locale:e})]}export{i as t};

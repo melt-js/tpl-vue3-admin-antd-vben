@@ -1,0 +1,1 @@
+import{J as a,g as t,gt as i,k as s}from"./runtime-core.esm-bundler-Bt9lA6T4.js";var r=Symbol("SizeContext"),u=()=>a(r,t(()=>{})),d=s((e,{slots:o})=>{const n=u();return i(r,t(()=>e?.size||n.value)),()=>o?.default?.()},{props:{size:{type:[String,null],required:!1}}});function v(e){i(r,e)}export{u as n,v as r,d as t};

@@ -1,0 +1,1 @@
+import{g as a}from"./runtime-core.esm-bundler-Bt9lA6T4.js";function i(e){return e==="horizontal"||e==="vertical"}function v(e,l,n){const o=a(()=>{const r=i(e?.value);let t;return r?t=e.value:typeof l?.value=="boolean"?t=l?.value?"vertical":"horizontal":t=i(n?.value)?n.value:"horizontal",[t,t==="vertical"]});return[a(()=>o.value[0]),a(()=>o.value[1])]}export{v as t};

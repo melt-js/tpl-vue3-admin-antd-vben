@@ -1,0 +1,1 @@
+import{f as o}from"./genStyleUtils-DQpxiCUG.js";import{g as a}from"./runtime-core.esm-bundler-Bt9lA6T4.js";function u(s){const[,,,,r]=o();return a(()=>r?.value?`${s.value}-css-var`:"")}export{u as t};

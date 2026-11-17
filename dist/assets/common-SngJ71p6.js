@@ -1,1 +1,0 @@
-var e={yearFormat:`YYYY`,dayFormat:`D`,cellMeridiemFormat:`A`,monthBeforeYear:!0,hourSelect:`Select an hour`,minuteSelect:`Select a minute`,secondSelect:`Select a second`,millisecondSelect:`Select a millisecond`,meridiemSelect:`Select a meridiem`};export{e as t};

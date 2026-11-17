@@ -1,0 +1,1 @@
+var l="/auth/login",s=[{label:"简体中文",value:"zh-CN"},{label:"English",value:"en-US"}];function e(n){return n.map(a=>({...a}))}var t=e(s),u=[];function g(n){const a=e(n);t=a;for(const r of[...u])r(e(a))}export{s as n,g as r,l as t};
