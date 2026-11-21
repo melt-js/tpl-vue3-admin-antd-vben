@@ -1,1 +1,0 @@
-import{B as o}from"./store-65UN08PH.js";async function p({file:t,onError:e,onProgress:a,onSuccess:n}){try{a?.({percent:0});const r=await o.upload("/upload",{file:t});a?.({percent:100}),n?.(r,t)}catch(r){e?.(r instanceof Error?r:new Error(String(r)))}}export{p as t};
