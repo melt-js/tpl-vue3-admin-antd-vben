@@ -1,1 +1,0 @@
-import{On as e,k as _,mt as t,v as a}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as r}from"./libTypes-Bo9gf1Mv.js";var n=_({__name:"menu-3-2-1",setup(u){return(o,s)=>(t(),a(e(r),{status:"coming-soon"}))}}),c=n;export{c as default};

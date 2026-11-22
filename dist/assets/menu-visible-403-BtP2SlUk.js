@@ -1,1 +1,0 @@
-import{On as e,k as t,mt as _,v as a}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as r}from"./libTypes-Bo9gf1Mv.js";var s=t({__name:"menu-visible-403",setup(n){return(o,u)=>(_(),a(e(r),{description:"当前页面用户不可见，会被重定向到403页面",status:"coming-soon",title:"页面访问测试"}))}}),p=s;export{p as default};

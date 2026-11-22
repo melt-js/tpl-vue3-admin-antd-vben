@@ -1,1 +1,0 @@
-import{On as e,k as a,mt as r,v as t}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as o}from"./libTypes-Bo9gf1Mv.js";var _=a({name:"Fallback403Demo",__name:"forbidden",setup(n){return(s,u)=>(r(),t(e(o),{status:"403"}))}}),f=_;export{f as default};

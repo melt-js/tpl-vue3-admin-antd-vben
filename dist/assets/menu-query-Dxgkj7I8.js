@@ -1,1 +1,0 @@
-import{On as e,k as t,mt as a,v as r}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as n}from"./libTypes-Bo9gf1Mv.js";var _=t({__name:"index",setup(o){return(s,u)=>(a(),r(e(n),{description:"点击菜单，将会带上参数",status:"coming-soon",title:"菜单带参示例"}))}}),i=_;export{i as default};

@@ -1,0 +1,1 @@
+import{On as e,k as t,mt as a,v as r}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as n}from"./libTypes-Dxkf6_Ud.js";var o=t({__name:"index",setup(_){return(s,c)=>(a(),r(e(n),{description:"用于菜单激活显示不同的图标",status:"coming-soon",title:"激活图标示例"}))}}),u=o;export{u as default};

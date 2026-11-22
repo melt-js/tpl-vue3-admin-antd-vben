@@ -1,1 +1,0 @@
-import{On as e,k as t,mt as a,v as l}from"./runtime-core.esm-bundler-Bt9lA6T4.js";import{v as r}from"./libTypes-Bo9gf1Mv.js";var _=t({__name:"level-detail",setup(o){return(s,n)=>(a(),l(e(r),{description:"面包屑导航-层级模式-详情页",status:"coming-soon",title:"注意观察面包屑导航变化"}))}}),i=_;export{i as default};
