@@ -1,1 +1,0 @@
-import"./genStyleUtils-BxKKVWqF.js";import{n as c}from"./color-DqXIw9UU.js";function e(o,t){const{r,g:n,b:i,a:s}=o.toRgb(),g=new c(o.toRgbString()).onBackground(t).toHsv();return s<=.5?g.v>.5:r*.299+n*.587+i*.114>192}export{e as t};
